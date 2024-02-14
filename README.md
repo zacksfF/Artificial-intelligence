@@ -1,5 +1,5 @@
 # Another time
-I want to keep this repo For parctice the my favort stack
+I want to keep this repo For parctice my favorite stack
 - **Go** and Pytorch(and his ecosystems)
 - The most issue in the field of AI is Production
 - **Go** solve that to make easy and understanding what you do on you software
